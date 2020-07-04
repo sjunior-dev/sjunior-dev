@@ -1,1 +1,3 @@
-# sjuniorti
+# Sinesio Junior
+
+# About Me
