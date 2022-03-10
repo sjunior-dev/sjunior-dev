@@ -10,7 +10,7 @@ With good experience in hiring, managing, mentoring, and inspiring teams.
 
 # About Me
 
-I'm a brazilian living in Berlin, I'm currently working for Olx Group as Engineering Manager for Seller Reputation Team. 
+I'm a brazilian living in Berlin, I'm currently working as a Director of Engineering at Lhotse.
 
 I write mostly code in PHP and Symfony. 
 
