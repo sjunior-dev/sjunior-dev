@@ -1,19 +1,12 @@
 # Sinesio Junior
 
-### About me:
-I'm a seasoned Senior Engineering Leader with over 18 years of hands-on experience, specializing in cultivating, engaging, and steering high-performing tech teams ranging from 15 to 30 individuals.
+I'm an experienced Senior Software Engineer with 18+ years of experience building web applications at scale, and working with platforms/developer experience.
 
-### My Leadership Style:
-Colleagues often label me as a positive leader with an innate proactive attitude in the face of challenges. I thrive on transforming adversity into opportunity and believe in fostering a culture of resilience and innovation.
+I've worked in different team setups, cross-functional and multi-locations, remote and in person, building, scaling, and owning different parts of the systems, I have worked on migrations from monolith to microservices, migrating from EC2 to docker and then k8s, maintaining and creating on-call processes as well incident management.
 
-### Team Dynamics:
-Teams under my guidance appreciate my ability to provide clear direction, instill purpose, and offer insightful coaching. I take pride in being the mentor and guide that empowers individuals to realize their full potential.
+In these years I have also worked on platform stability, fault tolerance, multi-regions and high availabilities architecture, database optimizations, query optimizations, database sharding, and federation.
 
-### Navigating Complexity:
-I excel in bringing clarity to chaotic situations. My passion lies in simplifying processes, structures, and systems, ensuring a streamlined approach to problem-solving. I thrive in dynamic environments, turning complexity into an opportunity for efficiency and growth.
+Experience with data stream architecture, event-based, and async processes.
 
-### Experience Highlights:
-With a robust background in hiring, managing, and mentoring, I've successfully inspired teams to achieve their utmost potential. My leadership philosophy centers around creating an environment that encourages collaboration, continuous learning, and a shared commitment to excellence.
+With excellent docker experience, cloud environments, and infrastructure as code (Terraform).
 
-#### Keywords
-Docker - Kubernetes – Symfony – PHP – MySQL – GIT – JIRA – Scrum – Code Review – Linux – APIs – High Traffic – JSON – Memcache – Redis – AWS – New Relic - Jenkins - CI/CD - Ruby - Rails - TDD  - Postgres - RabitMQ - Kafka - Github Actions - Terraform - Gitlab - Kotlin - Event Streaming - DevOps - SQS/SNS - PagerDuty
